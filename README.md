@@ -1,0 +1,3 @@
+### Project Overview
+
+This project utilizes a dataset containing prices of New York houses, enriched with details such as broker titles, house types, number of bedrooms and bathrooms, property square footage, addresses, and geographical coordinates. By employing Python for data cleaning and analysis, I aim to uncover significant trends and insights that illuminate the dynamics of the real estate market in the region. The objective is to generate actionable intelligence that can inform buyers, sellers, and real estate professionals, ultimately supporting data-driven decision-making in the competitive New York housing landscape.
